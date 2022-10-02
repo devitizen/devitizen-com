@@ -30,7 +30,7 @@ export default function Main() {
         </Button>
       </Link>
       <Link
-        href={"https://dog-breed-finder.techj.net"}
+        href={"https://dogbreedfinder.devitizen.com"}
         target="_blank"
         underline="none"
       >
